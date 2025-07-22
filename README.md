@@ -48,6 +48,5 @@ Enter year [2025]:
 Enter month (1-12):
 ```
 
-🙋‍♂️ Author
 Made with ❤️ by Chirag Dhawan
 
